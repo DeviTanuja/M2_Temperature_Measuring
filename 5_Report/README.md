@@ -77,3 +77,7 @@ It is a system which can simply installed in a car,in order to maintain the temp
 |LLR2|potentiometer to adjust the temperature|IMPLEMENTED|
 |LLR3|Hd44780-25 display is used as output for displaying temperature of seat |IMPLEMENTED|
 
+## Test cases
+![testcases](https://user-images.githubusercontent.com/89590962/133676275-4e989d2f-e0f9-4a1b-8009-af6773d4641e.png)
+
+
